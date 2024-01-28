@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ekin Can Akın</h1>
 <h3 align="center">A passionate industrial automation guy from Turkey</h3>
-<img align="right" alt="otomation" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZ1c3hsbjZtNmNtaHZzdnZlcTIwZ3MwNXQxMXc3NXlyZnF3YXF6ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VjAB0fOmK15Ze/giphy.gif">
+<img align="right" alt="otomation" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faslaquie&label=Profile%20views&color=0e75b6&style=flat" alt="faslaquie" /> </p>
 
