@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ekincanpoz@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ekin-can-akın-166b71182](www.linkedin.com/in/ekin-can-akın-166b71182)
+- 📄 Know about my experiences www.linkedin.com/in/ekincanakın
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
