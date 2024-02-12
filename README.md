@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **arduino, delphi, solidworks and proteus**
 
-- 📫 How to reach me **ekincanpoz@gmail.com**
+- 📫 How to reach me **akinekincan01@gmail.com**
 
 - 📄 Know about my experiences www.linkedin.com/in/ekincanakın
 
